@@ -20,6 +20,6 @@ whereas applications usually cannot.
   * NO WEBGL
     * ghost inspector: no plans to enable webgl
     * travis-ci
+    * sauce labs
   * SKETCHY/UNCONFIRMED
     * browserstack promises webgl on osx.
-    * sauce labs has webgl on some boxes. most boxes do not have webgl. sauce has not been reliable enough to use.
