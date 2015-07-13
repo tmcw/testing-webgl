@@ -18,7 +18,7 @@ whereas applications usually cannot.
       * karma
 * Services
   * NO WEBGL
-    * ghost inspector
+    * ghost inspector: no plans to enable webgl
     * travis-ci
   * SKETCHY/UNCONFIRMED
     * browserstack promises webgl on osx.
