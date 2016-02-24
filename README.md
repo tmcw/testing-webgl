@@ -16,6 +16,7 @@ whereas applications usually cannot.
       * hughsk/smokestack
       * zuul
       * karma
+      * nightwatch
 * Services
   * NO WEBGL
     * ghost inspector: no plans to enable webgl
