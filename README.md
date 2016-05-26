@@ -21,6 +21,7 @@ whereas applications usually cannot.
   * NO WEBGL
     * ghost inspector: no plans to enable webgl
     * travis-ci
+    * circleci
     * sauce labs
   * SKETCHY/UNCONFIRMED
     * browserstack promises webgl on osx.
