@@ -25,3 +25,9 @@ whereas applications usually cannot.
     * sauce labs
   * SKETCHY/UNCONFIRMED
     * browserstack promises webgl on osx.
+
+## Tools for running WebGL tests
+
+- [gl-shader-output](https://github.com/Jam3/gl-shader-output)
+- [glslify-testify](https://www.npmjs.com/package/glsl-testify)
+- [webgl-compile-shader](https://github.com/mattdesl/webgl-compile-shader)
