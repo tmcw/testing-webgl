@@ -18,6 +18,8 @@ whereas applications usually cannot.
       * karma
       * nightwatch
 * Services
+  * Promises WebGL
+    * Browserstack on Win 8.1 ([ref](https://blogs.msdn.microsoft.com/uk_faculty_connection/2014/04/07/webgl-to-windows-8/))
   * NO WEBGL
     * ghost inspector: no plans to enable webgl
     * travis-ci
